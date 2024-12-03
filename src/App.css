@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+.App-image{
+  opacity:0.2;
+  font-family:cursive;
+  color:#0f3e5e;
+}
